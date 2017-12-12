@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 连框颜色值 -->
+
+    <item android:state_pressed="true"><shape>
+            <solid android:color="#1D57F1" />
+
+            <corners android:bottomLeftRadius="6dp" android:bottomRightRadius="6dp" android:topLeftRadius="6dp" android:topRightRadius="6dp" />
+        </shape></item>
+
+    <!-- 主体背景颜色值 -->
+    <item><shape>
+            <solid android:color="#2CA8E1" />
+
+            <corners android:bottomLeftRadius="6dp" android:bottomRightRadius="6dp" android:topLeftRadius="6dp" android:topRightRadius="6dp" />
+        </shape></item>
+
+</selector>

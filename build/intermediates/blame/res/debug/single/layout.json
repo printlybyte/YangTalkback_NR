@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\common_progress_dialog.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\common_progress_dialog.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\act_talkback.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\act_talkback.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\act_setting.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\act_setting.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\item_idinfo.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\item_idinfo.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\act_record.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\act_record.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\uc_buttonex_v.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\uc_buttonex_v.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\uc_buttonex_h.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\uc_buttonex_h.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\act_login.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\act_login.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\act_test.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\act_test.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\item_record.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\item_record.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\singlepos_exitconfirm.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\singlepos_exitconfirm.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\dig_input.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\dig_input.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\act_main.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\act_main.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\act_loading.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\act_loading.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\item_talkback_info.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\item_talkback_info.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\reg_dialog.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\reg_dialog.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\cpt_menu.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\cpt_menu.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\feature_layout.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\feature_layout.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\warn_layout.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\warn_layout.xml"
+    },
+    {
+        "merged": "G:\\studioworkspcse\\YangTalkback_NR\\build\\intermediates\\res\\merged\\debug\\layout\\warn_reg_layout.xml",
+        "source": "G:\\studioworkspcse\\YangTalkback_NR\\res\\layout\\warn_reg_layout.xml"
+    }
+]

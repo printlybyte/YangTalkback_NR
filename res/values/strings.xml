@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">隐蔽对讲</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="cd_key">123456</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

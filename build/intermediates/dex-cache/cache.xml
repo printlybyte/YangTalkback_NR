@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\studioworkspcse\YangTalkback_NR\libs\AXLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a31cd51184db245b5cf5085ff2b5c93f875a1c90">
+        <dex dex="G:\studioworkspcse\YangTalkback_NR\build\intermediates\pre-dexed\debug\AXLib_9a879e6e87ad4f442be4298ea9ad46112acb614a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\studioworkspcse\YangTalkback_NR\libs\gesture-imageview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3a5d3ac9f6422976be2a9161b26329b777c8cd7">
+        <dex dex="G:\studioworkspcse\YangTalkback_NR\build\intermediates\pre-dexed\debug\gesture-imageview_090fcdd2707e4553438af6386f4097c4c595b51a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\studioworkspcse\YangTalkback_NR\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\studioworkspcse\YangTalkback_NR\build\intermediates\pre-dexed\debug\gson-2.3.1_b6099bdf90ef41cd57d1e9b277b80c54a6079d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\studioworkspcse\YangTalkback_NR\libs\microlog4android-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2612759eba0e1da035e939922440bb4ef83972df">
+        <dex dex="G:\studioworkspcse\YangTalkback_NR\build\intermediates\pre-dexed\debug\microlog4android-1.1_ff87c1cbd0757f790f15c32db991ce43cf2a55aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\studioworkspcse\YangTalkback_NR\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe882960b965e57557d564d96ae9f19161f6916">
+        <dex dex="G:\studioworkspcse\YangTalkback_NR\build\intermediates\pre-dexed\debug\volley_ba3743f8f05536d5021a8ea28f9d5a664b58ee01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\studioworkspcse\YangTalkback_NR\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27c24d26e4c5d57976e6926367985548678e913c">
+        <dex dex="G:\studioworkspcse\YangTalkback_NR\build\intermediates\pre-dexed\debug\android-support-v4_a969d3d88169580d2e8311d7983abc58f1ebf697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\studioworkspcse\YangTalkback_NR\libs\AMap_Location_v2.1.0_20151202.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42e29bc09e0685e4712d74b7c8ea45451fe6ed24">
+        <dex dex="G:\studioworkspcse\YangTalkback_NR\build\intermediates\pre-dexed\debug\AMap_Location_v2.1.0_20151202_61d23e872975120b298ed790127afa98cb3dc81e.jar" />
+    </item>
+
+</items>

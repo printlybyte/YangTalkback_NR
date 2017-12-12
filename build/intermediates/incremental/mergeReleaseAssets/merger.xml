@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\studioworkspcse\YangTalkback_NR\assets"><file name="microlog.properties" path="G:\studioworkspcse\YangTalkback_NR\assets\microlog.properties"/></source><source path="G:\studioworkspcse\YangTalkback_NR\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="G:\studioworkspcse\YangTalkback_NR\build-types\release\assets"/></dataSet></merger>
